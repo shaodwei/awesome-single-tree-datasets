@@ -1,0 +1,312 @@
+[
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_18.zip",
+    "size": 3298151692,
+    "checksum": "md5:120806d01bc604b2bede12b73b74d5a4",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_18.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_15.zip",
+    "size": 3799293293,
+    "checksum": "md5:68c691e275ddc8a779761e74a68f9899",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_15.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_02.zip",
+    "size": 2862405917,
+    "checksum": "md5:adcc9cf41ce3c770df25a682fb9e9c37",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_02.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_08.zip",
+    "size": 3335088239,
+    "checksum": "md5:f298051bee195200ce7752a5bfb7175e",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_08.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_03.zip",
+    "size": 2749822478,
+    "checksum": "md5:daf5cd9795993c308237dd9f184173da",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_03.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_12.zip",
+    "size": 3973019804,
+    "checksum": "md5:9eb6719800e65a41b2ffc95ad3bf494e",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_12.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_19.zip",
+    "size": 3478585692,
+    "checksum": "md5:b9a56aeb2ba96db3b0605ab406627427",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_19.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_20.zip",
+    "size": 3505178776,
+    "checksum": "md5:688d6d0f7b9b3302a66cc71873405d4c",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_20.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_25.zip",
+    "size": 4001344340,
+    "checksum": "md5:c2fc4d64a5a3bbbcd420513e0c7485fc",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_25.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_10.zip",
+    "size": 3073665533,
+    "checksum": "md5:94e6e8cbfe9c1a35f86ddec2d8ab6193",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_10.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/individual_tree_summary.csv",
+    "size": 1079248,
+    "checksum": "md5:636e591582c85164f1532a6dc6350694",
+    "url": "https://zenodo.org/api/records/19127709/files/individual_tree_summary.csv/content",
+    "license": "cc-by-4.0",
+    "role": "source metadata / documentation / analysis companion"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_13.zip",
+    "size": 4215768224,
+    "checksum": "md5:696af51967cd07dc723f7b0e6b1aef94",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_13.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_24.zip",
+    "size": 3431415842,
+    "checksum": "md5:5bf4bc6d3ea16ac67ab38da85d1bcfce",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_24.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/plot_summary.xlsx",
+    "size": 24794,
+    "checksum": "md5:c468bf5eef366dbb62bb0d2287fe3da4",
+    "url": "https://zenodo.org/api/records/19127709/files/plot_summary.xlsx/content",
+    "license": "cc-by-4.0",
+    "role": "source metadata / documentation / analysis companion"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_28.zip",
+    "size": 662676108,
+    "checksum": "md5:b09ad268a1af73cf88d69b7b1d088c88",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_28.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_16.zip",
+    "size": 3420559884,
+    "checksum": "md5:b8fe735f7f4899da02a4ae0c2f86e96c",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_16.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_17.zip",
+    "size": 3343477174,
+    "checksum": "md5:edb7449b547a7377a108ef043a5d3e95",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_17.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_01.zip",
+    "size": 3106976818,
+    "checksum": "md5:945399b7c9ce70a71be7d410330a998d",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_01.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_04.zip",
+    "size": 2851037653,
+    "checksum": "md5:51c60259ec05b0c27a9e61bd4cfcd0a7",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_04.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_05.zip",
+    "size": 2958719107,
+    "checksum": "md5:45bd490b31422670191b4000e3222fdc",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_05.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_06.zip",
+    "size": 2909169349,
+    "checksum": "md5:df1da6d8702ef6145876dfc916a776f3",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_06.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_07.zip",
+    "size": 3508945218,
+    "checksum": "md5:a24ac87c309fc71452176139e2bc6876",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_07.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_21.zip",
+    "size": 3727970038,
+    "checksum": "md5:bf9a3cf04bc72338379f26a5db48b129",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_21.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_23.zip",
+    "size": 3753182137,
+    "checksum": "md5:d71d4798c0d0ada2bef30061c83c14f6",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_23.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_26.zip",
+    "size": 3823950605,
+    "checksum": "md5:c4ffae9c95ec87c95a84366966bc4cc9",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_26.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_11.zip",
+    "size": 3760343367,
+    "checksum": "md5:b2c5a72f24c96a0bb306181b5d0b78e0",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_11.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_09.zip",
+    "size": 3170300951,
+    "checksum": "md5:f82eff3c9c935d77f14f0bf9a0ea7032",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_09.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/species_id_names.csv",
+    "size": 956,
+    "checksum": "md5:fb30c58415712a1d0d08639deb7bb0a7",
+    "url": "https://zenodo.org/api/records/19127709/files/species_id_names.csv/content",
+    "license": "cc-by-4.0",
+    "role": "source metadata / documentation / analysis companion"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_22.zip",
+    "size": 3559655178,
+    "checksum": "md5:9419b7e1f66a69f638acc63de34a923b",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_22.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_27.zip",
+    "size": 3923948980,
+    "checksum": "md5:461f9a295b728882d294d09c94355c12",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_27.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  },
+  {
+    "dataset_id": "DS-TREESCANPL10K-v1",
+    "phase": "P3",
+    "relative_path": "DS-TREESCANPL10K-v1/batch_14.zip",
+    "size": 4214781238,
+    "checksum": "md5:9cb639af9ff89b67cbb8f64f502aee6f",
+    "url": "https://zenodo.org/api/records/19127709/files/batch_14.zip/content",
+    "license": "cc-by-4.0",
+    "role": "real TLS plots with individual tree IDs"
+  }
+]

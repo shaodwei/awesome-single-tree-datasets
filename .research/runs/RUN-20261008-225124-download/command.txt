@@ -1,0 +1,1 @@
+python tools/library_io.py --queue catalog/download_queue.json --root "${archive_root}" --phase P0 --reserve-gib 1024 --budget-gib 400
