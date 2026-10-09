@@ -9,4 +9,6 @@
 - 方法与运行：[methods.csv](.research/methods.csv)、[runs.csv](.research/runs.csv)。运行记录中的路径使用 `${runs_root}` 等占位符；机器路径仅保存在 ignored 本地配置。
 - 大文件和论文保存在外部归档根目录；本机路径见 ignored `.research/paths.local.yaml`。存储身份见 [storage.csv](.research/storage.csv)。
 - 已有源目录不删除、不修改；个人原始样地点云按引用登记。生成 NPZ/Blender/程序叶片和模拟 LiDAR 不计入实测库。
-- 新增下载必须完成官方校验后进入 raw；历史汇集文件的校验依据单独记录。文件存在不等于已通过逐木 QA 或可直接实例化。GitHub 远端尚未发布；浏览器完成登录后才能发布本地目录包。
+- 新增下载必须完成官方校验后进入 raw；历史汇集文件的校验依据单独记录。文件存在不等于已通过逐木 QA 或可直接实例化。
+- GitHub 已发布：[awesome-single-tree-datasets](https://github.com/shaodwei/awesome-single-tree-datasets)。公开内容为目录、引用和脚本；第三方数据、论文全文与本机路径保存在外部归档。
+- 整体复核与历史范围对账见 [复核报告](docs/REVIEW_2026-10-09.md)。TreeScan 论文与发布表口径差异已明确登记；历史排除资产不计入获取统计。
