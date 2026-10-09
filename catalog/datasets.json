@@ -174,7 +174,7 @@
     "source_url": "https://zenodo.org/records/13255198",
     "paper_doi": "10.1111/2041-210X.14503",
     "priority": "B",
-    "limitations": "Aggregates other datasets: cross-source overlap must be checked. Crown/branch completeness varies. Test species labels withheld.",
+    "limitations": "Aggregates other datasets: cross-source overlap must be checked. Crown/branch completeness varies. Test species labels withheld. Dev metadata contains Weiser_2022a (226), Weiser_2022b (2580), Calders_2022 (661), likely linked to SYSSIFOSS/Wytham; tree-by-tree identity matching pending.",
     "verified_on": "2026-10-08",
     "geometry_qa": "pending",
     "paper_url": "https://gfzpublic.gfz.de/pubman/item/item_5033788_4/component/file_5035298/5033788.pdf"
@@ -192,7 +192,7 @@
     "source_url": "https://doi.org/10.48700/datst.xkadt-0cb92",
     "paper_doi": "10.1016/j.dib.2026.113021",
     "priority": "B",
-    "limitations": "Only SEGMENTED_TREES belongs to measured library. Exclude 273 procedural foliage reconstructions and 15718 simulated ALS scenes. Seasonal clouds are not necessarily distinct trees.",
+    "limitations": "Only SEGMENTED_TREES belongs to measured library. Exclude 273 procedural foliage reconstructions and 15718 simulated ALS scenes. Seasonal clouds are not necessarily distinct trees. Acquired subset and full ZIP overlap; retained release-file bytes include both, not independent observations.",
     "verified_on": "2026-10-08",
     "geometry_qa": "pending",
     "paper_url": "https://doi.org/10.1016/j.dib.2026.113021"
@@ -220,7 +220,7 @@
     "name": "TreeScanPL10K",
     "group": "core",
     "acquisition": "TLS plot clouds with tree IDs",
-    "published_count": "10417 segmented trees in 272 plots",
+    "published_count": "paper: 10417 trees / 7465 species-labelled; released summary: 10447 unique source-file/treeID rows / 7468 labelled; 272 plots",
     "species": "30 identified species; 7465 species-labelled trees",
     "region": "Poland",
     "attributes": "treeID; treeSP; completelyInside; tree/plot summaries",
@@ -228,7 +228,7 @@
     "source_url": "https://zenodo.org/records/19127709",
     "paper_doi": "10.1038/s41597-026-07269-1",
     "priority": "C",
-    "limitations": "Select completelyInside=1 for uncropped crowns; plot boundary flag does not guarantee absence of scan occlusion. Must extract by plot + treeID.",
+    "limitations": "Select completelyInside=1 for uncropped crowns; plot boundary flag does not guarantee absence of scan occlusion. Must extract by plot + treeID. Paper and released table counts differ; no explanation inferred. Released summary has 9525 rows with completely_inside=1.",
     "verified_on": "2026-10-08",
     "geometry_qa": "pending",
     "paper_url": "https://www.nature.com/articles/s41597-026-07269-1.pdf"
@@ -264,7 +264,7 @@
     "source_url": "https://zenodo.org/records/15362444",
     "paper_doi": "10.1038/s41597-026-06674-w",
     "priority": "C",
-    "limitations": "File access restricted. User must request/download through official access mechanism; paper is open.",
+    "limitations": "File access restricted. User must request/download through official access mechanism; paper is open. Source lookup resolved to version record 17566270; original requested record 15362444 retained as source pointer.",
     "verified_on": "2026-10-08",
     "geometry_qa": "pending",
     "paper_url": "https://www.nature.com/articles/s41597-026-06674-w.pdf"

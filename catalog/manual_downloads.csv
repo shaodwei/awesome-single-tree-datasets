@@ -1,0 +1,15 @@
+dataset_id,kind,filename,reason,official_url,expected_bytes,official_checksum
+DS-BIODIV3DTREES-v1,data_file,ULS.tar.zst,HTTP Error 503: Service Unavailable,https://data.goettingen-research-online.de/api/access/datafile/142311,652222562,md5:4dc25e7b151e8ce596cca866b2e53ee6
+DS-SYSSIFOSS-v1,data_access_or_selection,select source files; keep original names,Official access / plot or tree selection needed; no bulk download started,https://doi.org/10.1594/PANGAEA.942856,,obtain from selected official release
+DS-IRLTREES3D-v1,data_access_or_selection,select source files; keep original names,Official access / plot or tree selection needed; no bulk download started,https://IRLTrees3D.reliable-ai.org,,obtain from selected official release
+DS-ZENODO-15362444,data_access_or_selection,select source files; keep original names,Restricted access,https://zenodo.org/records/15362444,,obtain from selected official release
+DS-TREELEARN-v1,data_access_or_selection,select source files; keep original names,Official access / plot or tree selection needed; no bulk download started,https://doi.org/10.25625/VPMPID,,obtain from selected official release
+DS-TREELEARN-v1,data_access_or_selection,select source files; keep original names,Official access / plot or tree selection needed; no bulk download started,https://doi.org/10.25625/QUTUWU,,obtain from selected official release
+DS-DIGIFORESTS-v1,data_access_or_selection,select source files; keep original names,Official access / plot or tree selection needed; no bulk download started,https://www.ipb.uni-bonn.de/data/digiforest-dataset/,,obtain from selected official release
+DS-TREESCOPE-v1,data_access_or_selection,select source files; keep original names,Official access / plot or tree selection needed; no bulk download started,https://treescope.org/,,obtain from selected official release
+DS-CZECH-TREES-v1,paper,paper.pdf,PDF endpoint unavailable; full text XML saved,https://is.muni.cz/publication/2582992/2582992.pdf,,compute SHA256 after download
+DS-JARVSELJA-SHOOTS-v1,paper,paper.pdf,No verified openly downloadable PDF found,https://doi.org/10.1016/j.rse.2023.113568,,compute SHA256 after download
+DS-ZENODO-15395386,paper_citation_unresolved,paper.pdf after citation verified,Source record does not link a specific associated paper; do not invent citation,https://zenodo.org/records/15395386,,
+DS-ZENODO-21515256,paper_citation_unresolved,paper.pdf after citation verified,Readme names Vandendaele et al. manuscript; publication DOI not present in current API metadata,https://zenodo.org/records/21515256,,
+DS-BIODIV3DTREES-v1,data_file,Graphs.tar.zst,HTTP Error 503: Service Unavailable,https://data.goettingen-research-online.de/api/access/datafile/142310,1776293128,md5:9ce6bd0881cc82ec4458aef93477d9e8
+DS-BIODIV3DTREES-v1,data_file,TLS.tar.zst,HTTP Error 503: Service Unavailable,https://data.goettingen-research-online.de/api/access/datafile/142309,19941204645,md5:9dc1f3dee89239c7ed5e10daa6fe4364

@@ -4,7 +4,8 @@ project_id: P-2026-real-single-tree-library
 status: completed
 method_id: MTH-VERIFY-DOWNLOAD-v1
 git_commit: ''
-git_dirty: true
+git_dirty: null
+git_state_note: 'Startup Git state was not captured; unknown, not reconstructed from later commits.'
 config_path: catalog/additional_queue.json
 command_file: command.txt
 artifact_path: '${runs_root}/RUN-20261009-060350-download'

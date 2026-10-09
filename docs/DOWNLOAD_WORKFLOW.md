@@ -4,7 +4,7 @@
 
 原始目录不可覆盖。下载器先检查空间与 AgentHub 的 codex 写锁，再获取单下载器进程锁，最多 2 路下载。空间保留量默认 1024 GiB。源大小与 MD5 通过后计算 SHA-256，原子发布到 raw，追加 MANIFEST.jsonl。HTML 响应不会当成数据。
 
-安装 Python 3 后，持有 archive_root 的 codex 写锁时执行：
+此版本锁管理依赖 Windows、PowerShell `pwsh` 和 AgentHub，默认从用户目录下 `AgentHub/bin/agenthub.ps1` 调用锁脚本。它不是开箱即用的跨平台下载器。安装 Python 3 和上述依赖后，持有 archive_root 的 codex 写锁时执行：
 
 ```powershell
 python tools/library_io.py --queue catalog/download_queue.json --root X:/ResearchData/SingleTreeLibrary --phase P0 --reserve-gib 1024 --budget-gib 400 --release-lock
@@ -16,6 +16,16 @@ python tools/library_io.py --queue catalog/download_queue.json --root X:/Researc
 
 手动下载失败文件放入 manual_inbox/<dataset_id>/<原文件名>；先核对队列大小和官方 MD5。当前后台批次结束后再统一导入，避免与正在写入的文件冲突。数据许可/受限访问通过官方机制处理。
 
-运行状态在 runs/<run_id>/status.json；summary.json 仅在整批结束时产生。部分失败不会伪装为全批完成。机器断电后先确认旧 PID 已消失，再由同一任务处理残留 .downloader.lock 和 AgentHub 锁，保留 staging。
+```powershell
+python tools/verify_manual.py --queue catalog/download_queue.json --root X:/ResearchData/SingleTreeLibrary
+```
 
-工程实现已做 read-only Claude review，以及有效续传、服务器忽略 Range、错误校验值隔离、已有 raw 冲突保留和路径越界测试。
+此命令只读核验，不会导入文件。`verified_manual_pending_import` 表示仍待登记与发布到归档；当前仓库没有自动手动导入工具。不得直接把文件改名移入 raw 后宣称导入完成。
+
+活跃 worker 的 `status.json` 与下载 guard 会被更新；Windows 上不要直接打开这些可替换文件，避免共享冲突。使用 `python tools/status.py --root <archive_root>`，结合固定 `identity.json` 和已登记的追加 stdout 日志观察。`summary.json` 仅在整批结束时产生。`current_batch_failures` 只描述活跃批次；批次结束后的历史失败以完成摘要和手动清单为准。
+
+机器断电后先确认旧 PID 已消失及锁归属，再由同一任务处理残留 .downloader.lock 和 AgentHub 锁，保留 staging。不能删除活锁或启动第二下载器。
+
+工程实现曾做本机续传 / Range 忽略 / 校验隔离 / raw 冲突 / 路径越界验证及只读 Claude review；这些历史测试脚本尚未作为公共测试套件提交，本仓库不声称具有可重复运行的 CI 验证。
+
+历史 `MANIFEST.jsonl` 是追加记录，可能包含随后排除的条目。消费归档时同时检查当前 raw 文件、源目录 allowlist 及 `EXCLUSION_MANIFEST.jsonl`；不能仅汇总历史 `verified_download` 行。归档复核会追加排除与范围对账记录，保留历史记录原样。

@@ -1,0 +1,211 @@
+{
+  "verified_release_files": 82,
+  "verified_bytes": 391297450898,
+  "official_checksum_verified_files": 81,
+  "legacy_copy_integrity_only_files": 1,
+  "checked_on": "2026-10-09",
+  "datasets": [
+    {
+      "dataset_id": "DS-ZENODO-13759407",
+      "acquisition_status": "selected_release_files_verified",
+      "display_status": "已核验所选源包",
+      "verified_release_files": 1,
+      "verified_bytes": 254780950,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-ZENODO-15395386",
+      "acquisition_status": "selected_release_files_verified",
+      "display_status": "已核验所选源包",
+      "verified_release_files": 2,
+      "verified_bytes": 1449339246,
+      "reference_status": "unresolved_relationship",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-ZENODO-21515256",
+      "acquisition_status": "selected_release_files_verified",
+      "display_status": "已核验所选源包",
+      "verified_release_files": 7,
+      "verified_bytes": 332385500,
+      "reference_status": "unresolved_relationship",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-ZENODO-19621699",
+      "acquisition_status": "selected_release_files_verified",
+      "display_status": "已核验所选源包",
+      "verified_release_files": 16,
+      "verified_bytes": 13169208657,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-ZENODO-4557401",
+      "acquisition_status": "selected_release_files_verified",
+      "display_status": "已核验所选源包",
+      "verified_release_files": 3,
+      "verified_bytes": 143373461,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-ZENODO-16019825",
+      "acquisition_status": "selected_release_files_verified",
+      "display_status": "已核验所选源包",
+      "verified_release_files": 1,
+      "verified_bytes": 9620844932,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-ZENODO-7307956",
+      "acquisition_status": "selected_release_files_verified",
+      "display_status": "已核验所选源包",
+      "verified_release_files": 3,
+      "verified_bytes": 40990663040,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-TREEML-v1",
+      "acquisition_status": "selected_release_files_verified",
+      "display_status": "已核验所选源包",
+      "verified_release_files": 8,
+      "verified_bytes": 71865258447,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-BIODIV3DTREES-v1",
+      "acquisition_status": "partial_companions_only",
+      "display_status": "部分：QSM / 说明；扫描包待补",
+      "verified_release_files": 3,
+      "verified_bytes": 108025375022,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-ZENODO-13255198",
+      "acquisition_status": "selected_release_files_verified",
+      "display_status": "已核验所选源包",
+      "verified_release_files": 3,
+      "verified_bytes": 27200371363,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-CZECH-TREES-v1",
+      "acquisition_status": "selected_release_files_verified",
+      "display_status": "已核验所选源包",
+      "verified_release_files": 3,
+      "verified_bytes": 23451654231,
+      "reference_status": "fulltext_xml_saved_pdf_pending",
+      "geometry_qa": "pending",
+      "overlap_note": "Subset and full ZIP overlap; do not add their trees."
+    },
+    {
+      "dataset_id": "DS-SYSSIFOSS-v1",
+      "acquisition_status": "not_acquired",
+      "display_status": "待选择 / 获取",
+      "verified_release_files": 0,
+      "verified_bytes": 0,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-TREESCANPL10K-v1",
+      "acquisition_status": "selected_release_files_verified",
+      "display_status": "已核验所选源包",
+      "verified_release_files": 31,
+      "verified_bytes": 94420538633,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-IRLTREES3D-v1",
+      "acquisition_status": "not_acquired",
+      "display_status": "待选择 / 获取",
+      "verified_release_files": 0,
+      "verified_bytes": 0,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-ZENODO-15362444",
+      "acquisition_status": "restricted_access",
+      "display_status": "访问受限",
+      "verified_release_files": 0,
+      "verified_bytes": 0,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-JARVSELJA-SHOOTS-v1",
+      "acquisition_status": "legacy_copy_integrity_only",
+      "display_status": "器官包；仅旧副本一致性",
+      "verified_release_files": 1,
+      "verified_bytes": 373657416,
+      "reference_status": "missing_pdf",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-TREELEARN-v1",
+      "acquisition_status": "not_acquired",
+      "display_status": "待选择 / 获取",
+      "verified_release_files": 0,
+      "verified_bytes": 0,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-DIGIFORESTS-v1",
+      "acquisition_status": "not_acquired",
+      "display_status": "待选择 / 获取",
+      "verified_release_files": 0,
+      "verified_bytes": 0,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    },
+    {
+      "dataset_id": "DS-TREESCOPE-v1",
+      "acquisition_status": "not_acquired",
+      "display_status": "待选择 / 获取",
+      "verified_release_files": 0,
+      "verified_bytes": 0,
+      "reference_status": "pdf_saved",
+      "geometry_qa": "pending"
+    }
+  ],
+  "historical_failed_files": [
+    {
+      "dataset_id": "DS-BIODIV3DTREES-v1",
+      "filename": "ULS.tar.zst",
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "dataset_id": "DS-BIODIV3DTREES-v1",
+      "filename": "Graphs.tar.zst",
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "dataset_id": "DS-BIODIV3DTREES-v1",
+      "filename": "TLS.tar.zst",
+      "reason": "HTTP Error 503: Service Unavailable"
+    }
+  ],
+  "review_basis": "Acquisition receipts, completed batch summaries and current on-disk file sizes. This review did not rehash all archive bytes or perform geometric QA.",
+  "unique_biological_tree_count": null,
+  "source_count_checks": {
+    "DS-TREESCANPL10K-v1": {
+      "release_table_rows": 10447,
+      "release_table_unique_source_tree_ids": 10447,
+      "release_table_species_labelled": 7468,
+      "release_table_completely_inside": 9525,
+      "paper_reported_trees": 10417,
+      "paper_reported_species_labelled": 7465,
+      "plot_count_source_reported": 272
+    }
+  }
+}
