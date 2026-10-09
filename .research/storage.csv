@@ -1,3 +1,0 @@
-storage_id,label,root_path,kind,capacity_bytes,free_bytes,last_checked,backup_of,status,notes
-DRV-ARCHIVE,bulk archive,${archive_root},HDD,,,2026-10-08,,active,"Primary archive, not a second independent backup"
-DRV-WORK,working SSD,${workspace_root},SSD,,,2026-10-08,,active,Catalog/code and bounded processing

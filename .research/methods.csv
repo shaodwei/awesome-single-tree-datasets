@@ -1,2 +1,0 @@
-method_id,name,version,parent_id,code_ref,config_path,status,notes
-MTH-VERIFY-DOWNLOAD-v1,Size + official MD5 + SHA256 verified downloads,1,,tools/library_io.py,catalog/download_queue.json,active,Read-only Claude review and adversarial HTTP checks completed

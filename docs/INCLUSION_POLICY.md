@@ -1,9 +1,24 @@
-# 收录政策
+# Inclusion policy
 
-主体数据必须来源于真实树木的 TLS、MLS、ULS、ALS 或真实影像测量，有可核验的数据来源。影像测量网格需说明重建过程；3DGS 与实体网格分开记录。
+The main catalog covers real tree measurements. It includes laser scans and geometry reconstructed from real images.
+Every entry has a primary source link. Unknown source facts remain unknown.
 
-原作者的 QSM、结构图和扫描重建结果作为同木配套，保留 measured → derived 的关系。器官扫描、仅树干/样地分割资源单列。作者仅公布论文却限制原始数据的资源标记 restricted，不算已获得数据。
+QSMs and graphs are models derived from scans. They are linked to the same observations.
+They are not counted as new observations or new trees.
 
-用户生成的资产、Blender 模型、程序植被、模拟 LiDAR、合成叶冠均排除于实测库；无需因视觉逼真而纳入。混合发布包只登记明确的实测子目录。
+Organ scans, stem data, and tree instance benchmarks have separate entries. Their scope differs from complete tree geometry.
+Restricted sources can be listed. A source entry does not establish public data access.
 
-未知许可、论文关系、计数或测量出处保持未知，不用软件许可或论文许可代替数据许可。数据源条目数量、文件数量、观测数量和独立生物树数量分别统计。
+## Excluded data
+
+Synthetic trees, procedural foliage, and simulated laser scans are outside the measured catalog.
+An asset does not qualify because it looks realistic. Only measured components from a mixed release are in scope.
+
+## Counts and rights
+
+Source entries, files, observations, and biological trees have different counts.
+Seasonal scans and component files can describe one tree.
+Source collections can share trees. Their counts are not added without identity evidence.
+
+The source data license governs the data. A paper license or software license does not establish the data license.
+Each derived figure has source attribution and license information.

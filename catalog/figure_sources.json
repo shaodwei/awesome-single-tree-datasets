@@ -1,0 +1,122 @@
+{
+  "DS-ZENODO-13759407": {
+    "title": "Leaf-wood annotated tropical tree point clouds from terrestrial laser scanning",
+    "creators": [
+      "Van den Broeck, Wouter A. J.",
+      "Terryn, Louise",
+      "Calders, Kim"
+    ],
+    "source_url": "https://zenodo.org/records/13759407",
+    "license": {
+      "id": "cc-by-4.0"
+    }
+  },
+  "DS-ZENODO-15395386": {
+    "title": "Point clouds and Quantitative Structure Models of large tropical trees on BCI",
+    "creators": [
+      "Krishna Moorthy, Sruthi M."
+    ],
+    "source_url": "https://zenodo.org/records/15395386",
+    "license": {
+      "id": "cc-by-4.0"
+    }
+  },
+  "DS-ZENODO-21515256": {
+    "title": "Mobile laser scanning point clouds, quantitative structure models and destructive-reference attributes for 98 hardwood trees in Québec, Canada",
+    "creators": [
+      "Vandendaele, Bastien",
+      "Havreljuk, Filip",
+      "Roussel, Jean-Romain",
+      "Woods, Murray E.",
+      "Fournier, Richard A.",
+      "Bédard, Steve",
+      "Côté, Jean-François"
+    ],
+    "source_url": "https://zenodo.org/records/21515256",
+    "license": {
+      "id": "cc-by-4.0"
+    }
+  },
+  "DS-ZENODO-7307956": {
+    "title": "Terrestrial laser scanning data Wytham Woods: individual trees and quantitative structure models (QSMs)",
+    "creators": [
+      "Calders, Kim",
+      "Verbeeck, Hans",
+      "Burt, Andrew",
+      "Origo, Niall",
+      "Nightingale, Joanne",
+      "Malhi, Yadvinder",
+      "Wilkes, Phil",
+      "Raumonen, Pasi",
+      "Bunce, Robert",
+      "Disney, Mathias"
+    ],
+    "source_url": "https://zenodo.org/records/7307956",
+    "license": {
+      "id": "cc-by-4.0"
+    }
+  },
+  "DS-TREESCANPL10K-v1": {
+    "title": "TreeScanPL10k: A Central European tree species dataset of annotated terrestrial laser scanning point clouds",
+    "creators": [
+      "Stereńczak, Krzysztof",
+      "Kulicki, Maksymilian",
+      "Kraszewski, Bartłomiej",
+      "Gasica, Torana Arya",
+      "Mitelsztedt, Krzysztof",
+      "Mielcarek, Miłosz",
+      "Tangwa, Elvis",
+      "Erfanifard, Yousef",
+      "Brach, Michał",
+      "Hawryło, Paweł",
+      "Handayani, Hepi Hapsari",
+      "Ramadhani, Anisa Nabila Rizki",
+      "Krok, Grzegorz",
+      "Armazeta, Aura Jovita Gandari",
+      "Arisandy, Dhea Rizky",
+      "Błaś, Franciszek",
+      "Damayanti, Rena Anggita",
+      "De Yong, Raul Javier",
+      "Deden",
+      "Fabjan, Karolina",
+      "Fathimah, Farida Nuraini",
+      "Górska, Julia",
+      "Ila, Qarina Putri Amelia Nuri",
+      "Irawan, Reyhan Dhihan",
+      "Iwaniec, Filip",
+      "Jabłoński, Andrzej",
+      "Krawczyk, Wojciech",
+      "Kwartnik, Karol",
+      "Kwaśniewski, Bartosz",
+      "Mardhatillah, Raihanata",
+      "Massayudevi, Rahmadiana Aulya",
+      "Murti, Shafira Btari Ari",
+      "Ainand Nabila, Dafina",
+      "Novatiana, Riskyanirmala",
+      "Prasetyo, Widodoeko",
+      "Pratama, Febryanto",
+      "Ramadhani, Alita Tri Utami",
+      "Rębisz, Natalia",
+      "Rizannyansyah, Haikal Fikri Firdausi",
+      "Seremak, Zuzanna",
+      "Skomorucha, Bartosz",
+      "Skóra, Daniel",
+      "Sukmawan, Naufal",
+      "Taslyanto, Chelsea Alfarelia Putri",
+      "Turemka, Gabriela",
+      "Valika, Efsa",
+      "Warman, Dira Muvianti",
+      "Wilczyńska, Aleksandra",
+      "Winkowska, Kamila",
+      "Witkowski, Kacper",
+      "Yudisti, Syauqi Arka",
+      "Zdunek, Nikodem",
+      "Zieliński, Damian",
+      "Ziółkowski, Adam"
+    ],
+    "source_url": "https://zenodo.org/records/19127709",
+    "license": {
+      "id": "cc-by-4.0"
+    }
+  }
+}

@@ -35,3 +35,19 @@ __pycache__/
 *.gz
 *.png
 *.jpg
+
+# Internal records and acquisition tools stay outside the public catalog.
+.research/
+PROJECT.md
+AGENTS.md
+tools/
+catalog/download_queue.json
+catalog/additional_queue.json
+catalog/acquisition_status.json
+catalog/manual_downloads.csv
+docs/ACQUISITION_STATUS.md
+docs/DOWNLOAD_WORKFLOW.md
+docs/REVIEW_2026-10-09.md
+
+# Public, attributed figures are derived from licensed source data.
+!assets/figures/*.png
