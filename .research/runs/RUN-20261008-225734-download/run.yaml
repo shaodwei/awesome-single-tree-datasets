@@ -1,7 +1,8 @@
 schema_version: 1
 run_id: RUN-20261008-225734-download
 project_id: P-2026-real-single-tree-library
-status: running
+status: completed
+outcome: completed_with_failures
 method_id: MTH-VERIFY-DOWNLOAD-v1
 git_commit: ''
 git_dirty: true

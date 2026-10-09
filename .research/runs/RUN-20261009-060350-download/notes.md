@@ -1,0 +1,1 @@
+TreeScanPL10K P3 completed: 31/31 source files and 94420538633 bytes verified. Archive MANIFEST.jsonl contains 31 verified_download records with official MD5 and recorded SHA-256; run summary status is completed. Worker exited; lock_release returncode 0. No P3 failures. These are source files, not tree counts. No package extraction or per-tree geometry QA was performed.

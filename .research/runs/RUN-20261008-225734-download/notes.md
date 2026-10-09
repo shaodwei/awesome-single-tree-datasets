@@ -1,1 +1,1 @@
-Started from uncommitted code before initial Git commit. Scientific source records checked 2026-10-08. Bulk binaries and logs remain outside Git.
+Started before initial Git commit. Final summary: 27 queued files, 24 verified, 293698131404 bytes verified. Three BioDiv3 files failed with HTTP 503 and remain in the manual download list. P0 verified 21/21. Bulk binaries and logs remain outside Git.

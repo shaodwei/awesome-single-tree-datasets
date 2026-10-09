@@ -1,0 +1,17 @@
+schema_version: 1
+run_id: RUN-20261009-060350-download
+project_id: P-2026-real-single-tree-library
+status: completed
+method_id: MTH-VERIFY-DOWNLOAD-v1
+git_commit: ''
+git_dirty: true
+config_path: catalog/additional_queue.json
+command_file: command.txt
+artifact_path: '${runs_root}/RUN-20261009-060350-download'
+summary_path: '${runs_root}/RUN-20261009-060350-download/summary.json'
+started_at: '2026-10-09T06:03:50+08:00'
+finished_at: '2026-10-09T08:43:04+08:00'
+files_queued: 31
+files_verified: 31
+bytes_verified: 94420538633
+retention: B
